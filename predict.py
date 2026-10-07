@@ -21,7 +21,15 @@ hindi_translation = {
     "sorry": "माफ़ कीजिए",
     "stop": "रुकिए",
     "thankyou": "धन्यवाद",
-    "yes": "हाँ"
+    "yes": "हाँ",
+    "good": "अच्छा",
+    "bad": "बुरा",
+    "welcome": "स्वागत है",
+    "morning": "सुबह",
+    "night": "रात",
+    "eat": "खाना",
+    "drink": "पीना",
+    "water": "पानी"
 }
 
 
